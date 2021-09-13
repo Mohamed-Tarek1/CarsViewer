@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ِCar Viewer</string>
+    <string name="details_et_model_hint">Details</string>
+    <string name="details_et_color_hint">Color</string>
+    <string name="details_et_dpl_hint">Distance per liter</string>
+    <string name="details_et_description_hint">Description</string>
+    <string name="details_menu_save">Save</string>
+    <string name="details_menu_edit">Edit</string>
+    <string name="details_menu_delete">Delete</string>
+</resources>
